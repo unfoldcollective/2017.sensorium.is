@@ -1,7 +1,8 @@
 absolute_urls: false
 
 home:
-  alias: '/2018'
+  alias: '/modular'
+
 
 pages:
   theme: imaginarious
